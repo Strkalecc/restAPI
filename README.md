@@ -9,7 +9,7 @@ API de usuario utilizando Node.js
 
 ### Instalação
 ```
-npm install
+npm installdssdsdsdsd
 ```
 
 ### Excutando servidor
